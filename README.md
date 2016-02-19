@@ -1,4 +1,4 @@
-# Quick Labs | Fresno, Ca
+# Simply Fab | Fresno, Ca
 ## First Draft 
 <p> We could just start typing text here. </p>
 
