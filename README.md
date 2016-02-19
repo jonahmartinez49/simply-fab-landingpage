@@ -6,3 +6,6 @@
 <p> Our entire class finally did a push to GitHub. :)</p>
 
 ##February 18th clock in
+
+#### February 19th quiz
+<p> I don't know if i'm doing this right...</p>
